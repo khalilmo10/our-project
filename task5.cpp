@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
-// allowed
+// 
+// just a comment
 int main()
 {
   return 0;
